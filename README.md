@@ -10,3 +10,13 @@ Have you ever found yourself trying to figure out the appropriate word to use an
 Metafrastis has heard you out. It is here for you to make the entire process of communication as smooth as a cream. 
 It gives you a platform where you can speak to your heart's content in any langauge that you are comfortable with and it will deal with the strenuous job of translating and delivering the speech in the exact same language as expected by the person on the other side of the phone.
 So, you can focus on your expressions and what you want to convey, rather than getting panicked and left blanked out. It makes you feel more connected and expressive.
+<br>
+<br>
+## **TECH STACK**
+- Frontend using Android Studio and Java
+- Backend using Python and Flask, deployed to heroku. [Visit](https://github.com/enja-2001/Metafrastis-backend)
+
+## LIBRARIES USED
+- Retrofit2
+- Gson
+- googletrans 3.1.0a0
