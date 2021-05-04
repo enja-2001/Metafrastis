@@ -2,9 +2,9 @@
 ## <div align = "center">*Speech Translation made easy*</div>
 
 ## **MOTIVATION**
-Have you ever felt a language gap while trying to reach out to  others on phone? Have you ever struggled trying to translate your native language to some other language that is understandable to the person sitting on the other side of the phone.
-Have you ever found yourself trying to figure out the appropriate word to use and sometimes went blank.
-You must have noticed that this makes the entire communication process very rough and difficult to continue.
+Have you ever felt a language gap while trying to reach out to  others on phone? Have you ever struggled trying to translate your native language to some other language that is understandable to the person sitting on the other side of the phone?
+Have you ever found yourself trying to figure out the appropriate word to use and sometimes went blank?
+ You must have noticed that this makes the entire communication process very rough and difficult to continue.
 <br>
 <br>
 Metafrastis has heard you out. It is here for you to make the entire process of communication as smooth as a cream. 
