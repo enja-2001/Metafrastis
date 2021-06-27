@@ -7,4 +7,7 @@
     <color name="colorButton">#3d5f51</color>
     <color name="colorButtonActive">#1bea95</color>
     <color name="colorDarkPink">#A15A77</color>
+
+    <color name="colorGrey">#CCCDCDCD</color>
+    <color name="textColor">#D9000000</color>
 </resources>

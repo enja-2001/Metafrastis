@@ -49,9 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
     final SpeechRecognizer mSpeechRecognizer=SpeechRecognizer.createSpeechRecognizer(this);
     final Intent mSpeechRecognizerIntent=new Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
-
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
